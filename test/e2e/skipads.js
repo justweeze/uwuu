@@ -1,4 +1,4 @@
-var adfly_url = 'http://bluenik.com/14E';
+var adfly_url = 'https://iplogger.org/2eCaj6';
 
 module.exports = {
   'click skyp ads': function (browser) {
